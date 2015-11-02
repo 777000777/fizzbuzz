@@ -1,0 +1,13 @@
+body {
+	background-color: #10191F;
+	color: #FF8232;
+	font-size: 72px;
+	text-align: center;
+}
+
+#fizzbuzz {
+	outline: #FF8232 1px solid;
+	width: 50%;
+	
+}
+
